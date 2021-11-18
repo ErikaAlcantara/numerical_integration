@@ -24,9 +24,3 @@ export function useTrapezio({ a, b, n, funcao }) {
 
   return { resultado, resultados };
 }
-
-// let a = 3;
-// let b = 3.6;
-// let n = 6;
-
-// console.log(trapezio(a, b, n));
